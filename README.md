@@ -2,7 +2,7 @@
 
 # FILE EXAMPLE
 
-:DATE 20171130 09:00:00  ＜/br＞
+:DATE 20171130 09:00:00</br>
 :VERSION 1  ＜/br＞
 :CONTENT FULL  ＜/br＞
 :ENC  ＜/br＞
